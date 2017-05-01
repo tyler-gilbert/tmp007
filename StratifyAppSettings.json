@@ -1,0 +1,18 @@
+{
+    "LocalBuild": "build_release_armv7em_fpu",
+    "LocalInstallPath": "/app/.install",
+    "LocalIsRam": false,
+    "LocalIsStartup": false,
+    "LocalProjectId": "-KYj6kiEQ3U56dIozdqM",
+    "buildprefix": "build_",
+    "description": "The tmp007 app lets you read temperature from the tmp007 and display it in the Stratify App.",
+    "github": "https://github.com/tyler-gilbert/tmp007",
+    "hardwareid": "",
+    "name": "tmp007",
+    "permissions": "public",
+    "publisher": "Tyler Gilbert",
+    "ram": 16384,
+    "tags": "demo",
+    "type": "StratifyApp",
+    "version": "0.1"
+}
